@@ -7,7 +7,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -27,13 +27,12 @@ Users should be able to:
 
 ### Screenshots
 
-[./screenshots/desktop-screenshot.png]
-[./screenshots/mobile-screenshot.png]
+[./desktop-screenshot.png]
+[./mobile-screenshot.png]
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://yoannbdn.github.io/product-preview-card-component-main/)
 
 ## My process
 
